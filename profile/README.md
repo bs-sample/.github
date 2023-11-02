@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-web sample
+code sample
